@@ -76,7 +76,7 @@ echo "--------------------  Adding new host to /etc/hosts  \127.0.0.1	$SERVERNAM
 sudo su root -c  echo "127.0.0.1  $SERVERNAME" >> /etc/hosts
 
  if [ $? != 0 ]; then 
-   echo "Something goes wrong please add 27.0.0.1	$SERVERNAME to /etc/hosts manually"
+   echo "Something goes wrong please add 127.0.0.1	$SERVERNAME to /etc/hosts manually"
    else
    	 echo "--------------------  New host $SERVERNAME successfully added to /etc/hosts  --------------------"
 
