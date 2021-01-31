@@ -2,7 +2,7 @@
 
 ## Usage 
 * Clone this repository  
- `git clone create-new-host-apche2-mac`
+ `git clone git@github.com:BERRAMOU/create-new-host-apche2-mac.git`
   
 * Go to create-new-host-apche2-mac folder   
  `cd create-new-host-apche2-mac`
